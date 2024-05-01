@@ -1,5 +1,9 @@
-import subprocess
 from ultralytics import YOLO
-from roboflow import Roboflow
 
-subprocess.run('yolo', 'task=detect', 'mode=train', 'model=yolov8s.pt', 'data=../../../../local_datasets/FOOD-INGREDIENTS-dataset-4/data.yaml', 'plots=True')
+# Load a model
+model = YOLO('yolov8n.yaml')  # build a new model from YAML
+model = YOLO('yolov8n.pt')  # load a pretrained model (recommended for training)
+model = YOLO('yolov8n.yaml').load('yolov8n.pt')  # build from YAML and transfer weights
+
+# Train the model
+results = model.train(data='../../../../local_datasets/food_ingredients_dataset/data.yaml', epochs=100)
