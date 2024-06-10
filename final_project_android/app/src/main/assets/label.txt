@@ -1,0 +1,57 @@
+Almond
+Apple
+Avocado
+Bacon
+Banana
+Bean sprout
+Beans
+Beef
+Blueberry
+Bread
+Brocoli
+Cabbage
+Carrot
+Cheese
+Chicken
+Chilli
+Cookie
+Corn
+Cucumber
+Egg
+Fishcake
+Garlic
+Ginger
+Green onion
+Ham
+Kimchi cabbage
+Kimchi
+Lemon
+Mackerel
+Mayonnaise
+Milk
+Mussel
+Noodle
+Onion
+Orange
+Oyster
+Paprika
+Perilla leaves
+Pork
+Potato
+Radish
+Rice
+Salmon
+Scallop
+Seaweed
+Shrimp
+Soy Sauce
+Squid
+Strawberry
+Sweet potato
+Tofu
+Tomato
+Tuna
+Walnut
+Watermelon
+Yogurt
+Zuccini
